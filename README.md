@@ -8,23 +8,24 @@
 #### <i> **Topic Learns**</i>:
 - Printing, Input, Variable
 - String Manipulation
-- Identation
-- Debugging 
+- Indentation
+- Debugging
 - Data Types
-- Mathematics Operaations
-- Comparision Operators
+- Mathematics Operations
+- Comparison Operators
 - Type Conversion
 - f-string
 - Conditional Statements
-- Logical Operators
+
+Logical Operators
 #### <i> **Projects build with the help of above topics**</i>:
 - Band Name Generator
 - BMI Calculator
-- Leap year Finder
+- Leap Year Finder
 - Life In Weeks
 - Love Calculator
 - Pizza Order 
 - Tip Calculator
 - Tressure Island
 
-#### You can connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/).
+#### You can connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/)
