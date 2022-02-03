@@ -73,8 +73,75 @@
 <h3 align="center"><b>Day 5:</b></h3>
 
 #### <i> **Today Learns**</i>:
-- 
+- while loop
+- range function
 #### <i> **Projects build with the help of above topics**</i>:
-- 
+- Grading System
+- Secret Auction
+
+<h3 align="center"><b>Day 6:</b></h3>
+
+#### <i> **Today Learns**</i>:
+- Breaking problem into smaller ones
+#### <i> **Projects build with the help of above topics**</i>:
+- Blackjack Game
+- Calculator
+- Days in months
+- Number Guessing Game
+
+<h3 align="center"><b>Day 7:</b></h3>
+
+#### <i> **Today Learns**</i>:
+- Function with input
+- join a string 
+- change order of list by shuffle (random)
+#### <i> **Projects build with the help of above topics**</i>:
+- Higher Lower Game
+
+<h3 align="center"><b>Day 8:</b></h3>
+
+#### <i> **Today Learns**</i>:
+- Store function as value in dictionary
+#### <i> **Projects build with the help of above topics**</i>:
+- Coffee machine
+
+<h3 align="center"><b>Day 9:</b></h3>
+
+#### <i> **Today Learns**</i>:
+- Dictionary & Nesting
+- Recursion
+#### <i> **Projects build with the help of above topics**</i>:
+- Coffee machine using OOPs
+
+<h3 align="center"><b>Day 10:</b></h3>
+
+#### <i> **Today Learns**</i>:
+- Function with outputs
+- Docstring
+- Scope: local & global
+- OOPs overview
+#### <i> **Projects build with the help of above topics**</i>:
+- Quiz Game using OOPs
+
+<h2 align="center"><b>Consistency Breaks 💔</b></h2>
+<h3 align="center"><b>Lesson Learned!</b></h3>
+1. No Strong Planning for weeks <br>
+2. Not coding at the same time everyday [Due to which consistency break] <br>
+3. Doing 2 projects at same time <br>
+4. Curious mind not let me do one thing for long time [Focusing on Narrow mind]
+<hr> <br>
+
+<h2 align="center"><b>Again Taking challenge to complete 100DaysOfCode 💪</b></h2>
+> Will adding code to same directory [110 Days ] & Start with Day 11
+<br> <br>
+<h3 align="center"><b>Day 11:</b></h3>
+
+#### <i> **Today Learns**</i>:
+- Understanding Object oriented programming from freecodecamp
+- Abstract classes [via ABC module]
+
+#### <i> **Projects build with the help of above topics**</i>:
+- practice on -> staticmethod, classmethod, Inheritance, Abstract Class
+
 
 #### You can connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/).
