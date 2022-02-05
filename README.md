@@ -143,5 +143,27 @@
 #### <i> **Projects build with the help of above topics**</i>:
 - practice on -> staticmethod, classmethod, Inheritance, Abstract Class
 
+<h3 align="center"><b>Day 12:</b></h3>
+
+#### <i> **Today Learns**</i>:
+- Turtle module 
+- Extracting colors from the image [colorgram module] 
+
+#### <i> **Projects build with the help of above topics**</i>:
+- Etch Sketch
+- Different Shapes
+- Random Walk
+- Hirst $1.5M Painting
+- Spirograph
+- Flower
+- Colorful Spiral
+
+<h3 align="center"><b>Day 13:</b></h3>
+
+#### <i> **Today Learns**</i>:
+- tuple
+#### <i> **Projects build with the help of above topics**</i>:
+- Turtle racing game
+
 
 #### You can connect with me on [LinkedIn](https://www.linkedin.com/in/rishabhbaghel/).
