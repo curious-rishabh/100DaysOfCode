@@ -123,7 +123,7 @@
 #### <i> **Projects build with the help of above topics**</i>:
 - Quiz Game using OOPs
 
-<h2 align="center"><b>Consistency Breaks 💔</b></h2>
+<h2 align="center"><b>Start Again 💪</b></h2>
 <h3 align="center"><b>Lesson Learned!</b></h3>
 1. No Strong Planning for weeks <br>
 2. Not coding at the same time everyday [Due to which consistency break] <br>
